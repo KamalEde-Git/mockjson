@@ -1,0 +1,52 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "getDetails": [
+    {
+      "id": 1,
+      "applicantQID": "31231424141",
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "applicantQID": "88836345026",
+      "transactionType": "Renew",
+      "expiryDate": "23-10-2021",
+      "noofYears": "2",
+      "telNumber": "21212233224",
+      "receiveEmail": "no",
+      "receiveSMS": "no",
+      "id": 2
+    },
+    {
+      "applicantQID": "hyu76656567",
+      "transactionType": "Renew",
+      "expiryDate": "29-10-2023",
+      "noofYears": "2",
+      "telNumber": "232321321321132",
+      "receiveEmail": "no",
+      "receiveSMS": "no",
+      "id": 3
+    },
+    {
+      "applicantQID": "",
+      "transactionType": "",
+      "id": 4
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
